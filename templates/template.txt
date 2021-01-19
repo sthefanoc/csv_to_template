@@ -1,0 +1,4 @@
+This template is going to use the {Name A} variable.
+Another important information will be set on {Name B}.
+
+For numbers as an example, we could use the variable c, that is equal to {variable c}, for the {another information} case.

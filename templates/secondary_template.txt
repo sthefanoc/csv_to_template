@@ -1,0 +1,2 @@
+This is another template!
+    It will use this tab space. And only consider one variable, that is {another information}.
